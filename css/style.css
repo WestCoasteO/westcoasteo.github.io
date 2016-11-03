@@ -111,8 +111,8 @@ width:18px;float:left;height:31px;background:url(../images/previous.png) no-repe
   width: 385px;
 }
 /*.flexslider .slides > li a.video:hover + .slider-content{opacity:1;pointer-events: auto;}
-*/.slider-content h2{float:left;width:100%;font-size:22px;text-transform:capitalize;line-height:28px;margin-bottom:15px;}
-.slider-content p{float:left;width:100%;font-size:16px;line-height:22px;}
+*/.slider-content h2{float:left;width:100%;font-size:24px;text-transform:capitalize;line-height:28px;margin-bottom:15px;}
+.slider-content p{float:left;width:100%;font-size:14px;line-height:22px;}
 .carousel ul li{cursor:pointer;}
 .carousel.flexslider{margin-bottom:0;}
 
